@@ -1,5 +1,5 @@
 # The Most Useful Probability Distributions for Marketing Analytics
-# By: Joe Domaleski
+## By: Joe Domaleski
 
 Sample R scripts that demonstrate common probability distributions in marketing. For more information, refer to my blog post on Marketing Data Science. Here's a list of the R scripts featured. Each script also creates a plot, which I've saved in the repository as well.
 
