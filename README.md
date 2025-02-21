@@ -1,7 +1,11 @@
 # The Most Useful Probability Distributions for Marketing Analytics
 ## By: Joe Domaleski
 
-Sample R scripts that demonstrate common probability distributions in marketing. For more information, refer to my blog post on Marketing Data Science. Here's a list of the R scripts featured. Each script also creates a plot, which I've saved in the repository as well.
+Sample R scripts that demonstrate common probability distributions in marketing. For more information, refer to my blog post on Marketing Data Science. 
+
+https://blog.marketingdatascience.ai/the-most-useful-probability-distributions-for-marketing-analytics-efe9520d0b41
+
+Here's a list of the R scripts featured. Each script also creates a plot, which I've saved in the repository as well.
 
 1.	Normal Distribution (Continuous) - normal-distribution.R
 2.	Binomial Distribution (Discrete) - binomial-distribution.R
